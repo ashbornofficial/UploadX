@@ -56,7 +56,7 @@ Check your hosting provider's PHP upload limits before uploading large files.
 - Review whether uploaded file links should be publicly accessible before using this application for sensitive documents.
 - Test the installation and upload behavior on your own server before relying on it in production.
 - Apache `.htaccess` protections do not automatically apply on Nginx; configure equivalent server rules if using Nginx.
-- Do not commit live credentials, private configuration, real user data, uploaded documents, or production secrets to GitHub.
+- Do not commit live credentials, private configuration, real user data, uploaded documents, or production secrets to Online.
 
 ## Supported Upload Types
 
