@@ -1,8 +1,8 @@
-# MediaVault
+# UploadX
 
 A lightweight, self-hosted PHP application for managing and hosting PDF documents and images through a web dashboard.
 
-MediaVault includes an installer, authenticated dashboard, file upload and management tools, QR-code support, and optional two-factor authentication (2FA).
+UploadX includes an installer, authenticated dashboard, file upload and management tools, QR-code support, and optional two-factor authentication (2FA).
 
 ## Features
 
@@ -89,4 +89,4 @@ No license has been specified yet. Unless a license is added to this repository,
 
 ## Disclaimer
 
-MediaVault is provided as a self-hosted software project. You are responsible for configuring the server securely, deciding whether shared file links are appropriate for your use case, and testing the application before production deployment.
+UploadX is provided as a self-hosted software project. You are responsible for configuring the server securely, deciding whether shared file links are appropriate for your use case, and testing the application before production deployment.
